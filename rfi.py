@@ -1,5 +1,5 @@
 #!/usr/bin/python
-'''Created by hosein-khanalizadeh on april 2024'''
+'''Created by hosein-khanalizadeh'''
 
 import os, sys, platform
 
