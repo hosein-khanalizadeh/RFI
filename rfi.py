@@ -1,7 +1,9 @@
 #!/usr/bin/python
 '''Created by hosein-khanalizadeh'''
 
-import os, sys, platform
+import os
+import sys
+import platform
 
 try:
 	import requests
