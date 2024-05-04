@@ -2,9 +2,10 @@
 RFI Exploiting
 </h1>
 <p>
+
 -  A tool to Exploit Remote File Inclusion (RFI) Vulnerability
-  
 -  You can use the split targets for testing or find a target yourself
+
 </p>
 
 ## Usage
